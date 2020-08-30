@@ -1,7 +1,7 @@
 from PIL import Image # Image manipulations
 import matplotlib.pyplot as plt
 import os
-%matplotlib inline
+
 #show test images
 for image_path in os.listdir("TestResults"):
   image_path = os.path.join("TestResults",image_path)
