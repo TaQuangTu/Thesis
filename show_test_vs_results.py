@@ -1,4 +1,3 @@
-%cd /content/Thesis
 from PIL import Image # Image manipulations
 import matplotlib.pyplot as plt
 import os
